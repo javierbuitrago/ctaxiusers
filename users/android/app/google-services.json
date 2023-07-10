@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29403172094",
+    "project_id": "trippo-1eb43",
+    "storage_bucket": "trippo-1eb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29403172094:android:f7aa08805ef897f26aa9af",
+        "android_client_info": {
+          "package_name": "com.freenet.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29403172094-8lh47fsjfh4qlcrm40juh1i1nh6ecmti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoiHMtuMr3S54z3nTeUZkIa-nCVDuDVAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29403172094-8lh47fsjfh4qlcrm40juh1i1nh6ecmti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
